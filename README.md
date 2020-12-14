@@ -1,3 +1,5 @@
+Scripts developed by Thomas Heider. 
+
 # Gibbon-RepeatMasker-Script
 A script used to summarize RepeatMasker annotations from the .out file.
 
